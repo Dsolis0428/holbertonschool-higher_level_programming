@@ -2,7 +2,7 @@
 def fizzbuzz():
     """function that prints the numbers from 1 to 100 separated by a space."""
     for number in range(0, 100):
-        if number % 3 == 0 and number % 5 == 0
+        if number % 3 == 0 and number % 5 == 0:
         print("FizzBuzz ", end="")
     elif number % 3 == 0:
         print("Fizz ", end="")
