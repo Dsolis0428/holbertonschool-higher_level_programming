@@ -4,7 +4,6 @@
 def uniq_add(my_list=[]):
     """adds all unique integers in a list."""
     result = 0
-    for i in set(my_list):
-        result += i
+    for x in set(my_list):
+        result += x
     return (result)
-
