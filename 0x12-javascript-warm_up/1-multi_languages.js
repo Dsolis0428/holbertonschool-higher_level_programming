@@ -1,4 +1,4 @@
-#!/bin/usr/node
+#!/usr/bin/node
 
 const lang1 = 'C is fun';
 const lang2 = 'Python is cool';
