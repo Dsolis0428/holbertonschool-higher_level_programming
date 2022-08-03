@@ -1,4 +1,4 @@
-#!/usr/bin/nodevi
+#!/usr/bin/node
 
 const Sqr = require('./5-square.js');
 
