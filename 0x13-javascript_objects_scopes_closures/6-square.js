@@ -13,5 +13,3 @@ module.exports = class Square extends Rectangle {
     }
   }
 };
-  }
-};
